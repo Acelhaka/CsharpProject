@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe>
+    <Title>a</Title>
+    <Serving>6   persons</Serving>
+    <Description>
+
+
+
+
+
+xnakcnak
+
+
+</Description>
+    <Cost>mcn</Cost>
+    <Calories>mzcn </Calories>
+    <Ingredients>
+      <Ingredients>
+        <Name>cc</Name>
+        <Quantity>g (gram)</Quantity>
+        <Unit>qsc</Unit>
+      </Ingredients>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Title>Beef</Title>
+    <Serving>ama</Serving>
+    <Description>
+
+
+
+
+
+smnd f nsfn s
+
+
+</Description>
+    <Cost>scs</Cost>
+    <Calories>cxvs</Calories>
+    <Ingredients>
+      <Ingredients>
+        <Name>sa</Name>
+        <Quantity>da</Quantity>
+        <Unit />
+      </Ingredients>
+    </Ingredients>
+  </Recipe>
+  <Recipe>
+    <Title>Recipe</Title>
+    <Serving>Serving</Serving>
+    <Description>
+
+
+
+
+dnsvv,samwflm
+
+
+
+</Description>
+    <Cost />
+    <Calories />
+    <Ingredients>
+      <Ingredients>
+        <Name>Quantitu</Name>
+        <Quantity>bottle</Quantity>
+        <Unit>name</Unit>
+      </Ingredients>
+    </Ingredients>
+  </Recipe>
+</ArrayOfRecipe>
